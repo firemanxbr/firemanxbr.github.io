@@ -1,0 +1,9 @@
+Sitemap
+=======
+
+.. toctree::
+   :maxdepth: 1
+
+   2014/06/04/new_blog
+   pages/about
+

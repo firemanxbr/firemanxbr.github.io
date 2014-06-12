@@ -1,0 +1,9 @@
+About
+=====
+
+Test
+----
+
+Open source evangelist, team member Packager Fedora Project also where I work as Ambassador and Coordinator of the Brazilian Portuguese Translators Team. 
+Python Developer for embedded solutions focused on Linux and ARM hardware, currently involved with projects Virtualization with KVM and oVirt. Maintainer of users-pt@ovirt.org maillist where I try to help users oVirt. 
+In my free time I try to always give lectures and courses involving free software.

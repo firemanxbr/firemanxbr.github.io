@@ -1,0 +1,12 @@
+New blog!
+=========
+
+My new blog is it...
+
+new test
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::
