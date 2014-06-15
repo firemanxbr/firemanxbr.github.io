@@ -1,12 +1,12 @@
 About
 =====
 
-Open source evangelist, team member Packager of .. _Fedora Project: http://fedoraproject.org also where I'm  as Ambassador and Coordinator of the Brazilian Portuguese Translators Team. 
+Open source evangelist, team member `Packager <https://fedoraproject.org/wiki/Category:Package_Maintainers>`_ of `Fedora Project <http://fedoraproject.org>`_ also where I'm  as `Ambassador <https://fedoraproject.org/wiki/Ambassadors/MembershipService/Verification#Brazil_.2850.29>`_ and Coordinator of the `Brazilian Portuguese Translators Team <https://fedoraproject.org/wiki/L10N_Brazilian_Portuguese_Team>`_. 
 Software engineer using Python for embedded solutions focused on Linux and ARM hardware, currently involved with projects Virtualization with KVM and oVirt. 
-Maintainer of users-pt@ovirt.org maillist where I try to help users oVirt. 
+Maintainer of `users-pt@ovirt.org <http://lists.ovirt.org/mailman/listinfo/users-pt>`_ maillist where I try to help users `oVirt<http://www.ovirt.org>`_. 
 In my free time I try to always give lectures and courses involving free software.
 
 More about me please see:
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
- - https://fedoraproject.org/wiki/User:firemanxbr
+ - `Fedora User Page <https://fedoraproject.org/wiki/User:firemanxbr>`_
