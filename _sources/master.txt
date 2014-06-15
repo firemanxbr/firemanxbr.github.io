@@ -4,6 +4,6 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
-   2014/06/04/new_blog
+   2014/06/15/welcome_a_new_blog
    pages/about
 
