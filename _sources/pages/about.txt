@@ -1,7 +1,7 @@
 About
 =====
 
-Open source evangelist, team member Packager of `Fedora Project <http://fedoraproject.org>` also where I'm  as Ambassador and Coordinator of the Brazilian Portuguese Translators Team. 
+Open source evangelist, team member Packager of .. _Fedora Project: http://fedoraproject.org also where I'm  as Ambassador and Coordinator of the Brazilian Portuguese Translators Team. 
 Software engineer using Python for embedded solutions focused on Linux and ARM hardware, currently involved with projects Virtualization with KVM and oVirt. 
 Maintainer of users-pt@ovirt.org maillist where I try to help users oVirt. 
 In my free time I try to always give lectures and courses involving free software.
