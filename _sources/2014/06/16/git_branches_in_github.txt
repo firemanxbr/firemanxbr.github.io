@@ -1,0 +1,30 @@
+Creating git branches in GitHub
+===============================
+
+I was migrate this blog of `Tumblr <https://www.tumblr.com>`_ to `GitHub Pages <https://pages.github.com>`_ and have some problem: Where search this procedures ? 
+Searching about this I think: Why no share with all ?
+
+**TIP:** For example, I created one new version for my app and I no versioned this source, but I finish this new version I wish send to GitHub, but with new branch:
+
+I have initialize versioning in my source::
+ $ git init 
+
+Create my new branch, only local in this moment::
+$ git checkout -b name-new-branch
+
+Add my sources in this initial version::
+$ git add .
+
+After I have commit this initial version::
+$ git commit -m "Initial version of branch 'name-new-branch' "
+
+And sent to GitHub(create new branch and push this initial version)::
+$ git push URL-YOUR-PROJECT-GITHUB.git name-new-branch
+
+I go create more tips in new posts...
+
+
+.. author:: default
+.. categories:: git
+.. tags:: tools
+.. comments::

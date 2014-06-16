@@ -15,7 +15,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="description" content="Marcelo Barbosa blog firemanxbr at fedoraproject.org open source fedora centos red hat enterprise linux ovirt">
         <meta name="viewport" content="width=device-width">
-        <title>Welcome a new blog &mdash; Marcelo Barbosa</title>
+        <title>Creating git branches in GitHub &mdash; Marcelo Barbosa</title>
             <link rel="stylesheet" href="../../../_static/normalize.css" type="text/css">
             <link rel="stylesheet" href="../../../_static/sphinx.css" type="text/css">
             <link rel="stylesheet" href="../../../_static/main.css" type="text/css">
@@ -28,7 +28,7 @@
         <script>window.jQuery || document.write('<script src="../../../_static/vendor/jquery-1.8.2.min.js"><\/script>')</script>
         <script src="../../../_static/plugins.js"></script>
         <script src="../../../_static/main.js"></script>
-        <link rel="prev" title="Creating git branches in GitHub" href="../16/git_branches_in_github.html" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/firemanxbr" /><script type="text/javascript">
+        <link rel="next" title="Welcome a new blog" href="../15/welcome_a_new_blog.html" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/firemanxbr" /><script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
         URL_ROOT:    '../../../',
         VERSION:     '1.4.2',
@@ -68,25 +68,26 @@
                 </li>
               </ul>
           </nav><div class="main-container" role="main"><div class="main wrapper clearfix"><article><div class="timestamp postmeta">
-            <span>June 15, 2014</span>
+            <span>June 16, 2014</span>
         </div>
-    <div class="section" id="welcome-a-new-blog">
-<h1>Welcome a new blog</h1>
-<p>For a long time I believed that having a blog would just create an account in some system such as <a class="reference external" href="https://www.blogger.com">Blogger</a>, <a class="reference external" href="https://www.tumblr.com">Tumblr</a>, <a class="reference external" href="http://wordpress.org">Wordpress</a>, or <a class="reference external" href="http://www.livejournal.com">LiveJournal</a> and quit writing, over the years I realized that doing this is simple and easy and if this is your goal, but I wanted something more, wanted to share my knowledge in a place where I had full control and freedom, and they can run <a class="reference external" href="http://www.python.org">Python</a> course also wanted something that I migrate easily and simply, without the database, uncomplicated to build the environment and that allow me to create content offline with versioning.
-Thinking about it I decided to migrate <a class="reference external" href="http://mr-marcelo-barbosa.tumblr.com">my blog from Tumblr</a> to <a class="reference external" href="https://pages.github.com">GitHub Pages</a> using:</p>
-<blockquote>
-<div><ul class="simple">
-<li><a class="reference external" href="http://tinkerer.me">Tinkerer</a> with:</li>
-<li><a class="reference external" href="http://sphinx.pocoo.org">Sphinx</a></li>
-</ul>
-</div></blockquote>
-<p>to generate your blog, as I use for my personal wiki shpinx was a simple choice for me.
-In coming posts I will talk about this change and who want to keep up my old posts in the Portuguese Brazil:</p>
-<blockquote>
-<div><ul class="simple">
-<li>Old blog: <a class="reference external" href="http://mr-marcelo-barbosa.tumblr.com/">http://mr-marcelo-barbosa.tumblr.com/</a></li>
-</ul>
-</div></blockquote>
+    <div class="section" id="creating-git-branches-in-github">
+<h1>Creating git branches in GitHub</h1>
+<p>I was migrate this blog of <a class="reference external" href="https://www.tumblr.com">Tumblr</a> to <a class="reference external" href="https://pages.github.com">GitHub Pages</a> and have some problem: Where search this procedures ?
+Searching about this I think: Why no share with all ?</p>
+<p><strong>TIP:</strong> For example, I created one new version for my app and I no versioned this source, but I finish this new version I wish send to GitHub, but with new branch:</p>
+<dl class="docutils">
+<dt>I have initialize versioning in my source::</dt>
+<dd>$ git init</dd>
+</dl>
+<p>Create my new branch, only local in this moment::
+$ git checkout -b name-new-branch</p>
+<p>Add my sources in this initial version::
+$ git add .</p>
+<p>After I have commit this initial version::
+$ git commit -m &#8220;Initial version of branch &#8216;name-new-branch&#8217; &#8220;</p>
+<p>And sent to GitHub(create new branch and push this initial version)::
+$ git push URL-YOUR-PROJECT-GITHUB.git name-new-branch</p>
+<p>I go create more tips in new posts...</p>
 </div>
 
     <div class="postmeta">
@@ -96,7 +97,7 @@ In coming posts I will talk about this change and who want to keep up my old pos
         <div class="categories">
             <span>
                 Filed under:
-                <a href="../../../categories/python.html">python</a></span>
+                <a href="../../../categories/git.html">git</a></span>
         </div>
         <div class="tags">
             <span>
@@ -104,14 +105,14 @@ In coming posts I will talk about this change and who want to keep up my old pos
                 <a href="../../../tags/tools.html">tools</a></span>
         </div>
         </div><ul class="related clearfix">
-            <li class="left"> &laquo; <a href="../16/git_branches_in_github.html">Creating git branches in GitHub</a></li>
-            <li class="right"></li>
-        </ul><div id="comments">   <div class="fb-comments" data-href="http://www.firemanxbr.org/2014/06/15/welcome_a_new_blog.html">   </div></div></article><aside class="sidebar"><section><div class="widget">
+            <li class="left"></li>
+            <li class="right"><a href="../15/welcome_a_new_blog.html">Welcome a new blog</a> &raquo; </li>
+        </ul><div id="comments">   <div class="fb-comments" data-href="http://www.firemanxbr.org/2014/06/16/git_branches_in_github.html">   </div></div></article><aside class="sidebar"><section><div class="widget">
     <h1>Recent Posts</h1>
     <ul><li>
-            <a href="../16/git_branches_in_github.html">Creating git branches in GitHub</a>
+            <a href="#">Creating git branches in GitHub</a>
         </li><li>
-            <a href="#">Welcome a new blog</a>
+            <a href="../15/welcome_a_new_blog.html">Welcome a new blog</a>
         </li></ul>
 </div>
 </section><section><div class="widget" id="searchbox" role="search">
