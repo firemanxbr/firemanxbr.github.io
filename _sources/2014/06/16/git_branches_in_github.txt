@@ -5,12 +5,12 @@ When I migrated this blog from `Tumblr <https://www.tumblr.com>`_ to `GitHub Pag
 
 **TIP:** I created a new version of my application, but I have not had it versioned before:
 
-I have initialize versioning in my source::
+Initialize versioning in my local source::
 
         $ git init 
 
 
-Create my new branch, only local in this moment::
+Create my new branch::
 
         $ git checkout -b name-new-branch
 
@@ -20,17 +20,17 @@ Add my sources in this initial version::
         $ git add .
 
 
-After I have commit this initial version::
+Commit of initial version::
 
         $ git commit -m "Initial version of branch 'name-new-branch' "
 
 
-And sent to GitHub(create new branch and push this initial version)::
+And send to GitHub(create new branch and push the initial version)::
 
         $ git push URL-YOUR-PROJECT-GITHUB.git name-new-branch
 
 
-I go create more tips in new posts...
+I go create more tips in new posts, coming soon...
 
 
 .. author:: default

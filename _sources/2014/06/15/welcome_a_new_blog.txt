@@ -1,13 +1,14 @@
 Welcome a new blog
 ==================
 
-For a long time I believed that having a blog would just create an account in some system such as `Blogger <https://www.blogger.com>`_, `Tumblr <https://www.tumblr.com>`_, `Wordpress <http://wordpress.org>`_, or `LiveJournal <http://www.livejournal.com>`_ and quit writing, over the years I realized that doing this is simple and easy and if this is your goal, but I wanted something more, wanted to share my knowledge in a place where I had full control and freedom, and they can run `Python <http://www.python.org>`_ course also wanted something that I migrate easily and simply, without the database, uncomplicated to build the environment and that allow me to create content offline with versioning.
-Thinking about it I decided to migrate `my blog from Tumblr <http://mr-marcelo-barbosa.tumblr.com>`_ to `GitHub Pages <https://pages.github.com>`_ using: 
- - `Tinkerer <http://tinkerer.me>`_ with: 
- - `Sphinx <http://sphinx.pocoo.org>`_ 
+For a long time I believed that having a blog would just create an account in some system such as `Blogger <https://www.blogger.com>`_ , `Tumblr <https://www.tumblr.com>`_, `Wordpress <http://wordpress.org>`_, or `LiveJournal <http://www.livejournal.com>`_ and write, over the years I realized that doing this is simple and easy, but I wanted something more, wanted to share my knowledge in a place where I had full control and freedom. 
+Others points important for me is use `Python <http://www.python.org>`_ in my blog, easily and simply for migrating, without database and versioning in it.
+Thinking about it I decided to migrate `my blog from Tumblr <http://mr-marcelo-barbosa.tumblr.com>`_ to `GitHub Pages <https://pages.github.com>`_ using:
+ - `Tinkerer <http://tinkerer.me>`_ with:
+ - `Sphinx <http://sphinx.pocoo.org>`_
 
-to generate your blog, as I use for my personal wiki shpinx was a simple choice for me.
-In coming posts I will talk about this change and who want to keep up my old posts in the Portuguese Brazil: 
+I was using shpinx in my local documentation was as simple and easy choice for me use Tinkerer. In coming posts I will talk about this change. 
+My old blog with some posts in Portuguese Brazil I don't write more here:
 
  - Old blog: http://mr-marcelo-barbosa.tumblr.com/
 
