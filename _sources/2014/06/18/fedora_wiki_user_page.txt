@@ -1,0 +1,16 @@
+Fedora Wiki User Page
+=====================
+
+All contributors of the `Fedora <https://fedoraproject.org>`_ have to create your personal page within the `Wiki <https://fedoraproject.org/wiki>`_ of the project, facilitating the search for others colleagues who are responsible for an area of interest.
+In the post `Matthew Miller <http://fedoraproject.org/wiki/MatthewMiller>`_ on `Fedora Magazine <http://fedoramagazine.org/5tftw-2014-06-17/>`_ saw an excellent tip on how to insert in my page an infobox with information about me and yet list of my `Badges <https://badges.fedoraproject.org/>`_.
+If you want to become a Fedora contributor or if you are already a contributor, see some tips below on how to improve your page in Fedora:
+
+ - http://fedoramagazine.org/5tftw-2014-06-17/
+ - https://fedoraproject.org/wiki/Template:Infobox_user
+ - https://fedoraproject.org/wiki/User:Firemanxbr
+
+
+.. author:: default
+.. categories:: fedora
+.. tags:: fedora
+.. comments::
