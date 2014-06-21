@@ -4,6 +4,7 @@ Welcome a new blog
 For a long time I believed that having a blog would just create an account in some system such as `Blogger <https://www.blogger.com>`_ , `Tumblr <https://www.tumblr.com>`_, `Wordpress <http://wordpress.org>`_, or `LiveJournal <http://www.livejournal.com>`_ and write, over the years I realized that doing this is simple and easy, but I wanted something more, wanted to share my knowledge in a place where I had full control and freedom. 
 Others points important for me is use `Python <http://www.python.org>`_ in my blog, easily and simply for migrating, without database and versioning in it.
 Thinking about it I decided to migrate `my blog from Tumblr <http://mr-marcelo-barbosa.tumblr.com>`_ to `GitHub Pages <https://pages.github.com>`_ using:
+
  - `Tinkerer <http://tinkerer.me>`_ with:
  - `Sphinx <http://sphinx.pocoo.org>`_
 
