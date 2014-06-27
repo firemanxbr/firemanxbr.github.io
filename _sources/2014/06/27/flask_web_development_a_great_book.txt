@@ -1,0 +1,18 @@
+Flask Web Development a great book
+==================================
+
+I was reading the excellent book `"Flask Web Development" <http://flaskbook.com>`_ written by `Miguel Grinberg <http://blog.miguelgrinberg.com>`_ and realized that on page 4 the book has no information of how to install the package python-virtualenv for Fedora 20/Red Hat Enterprise Linux/CentOs. So I leave here my contribution to all of you:
+
+::
+        $ sudo yum install python-virtualenv
+
+Currently on Fedora 20 he's in your version::
+
+        $ virtualenv--version
+        1.10.1
+
+
+.. author:: default
+.. categories:: fedora python
+.. tags:: fedora python flask
+.. comments::
