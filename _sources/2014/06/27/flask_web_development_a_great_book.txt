@@ -13,6 +13,6 @@ Currently on Fedora 20 he's in your version::
 I hope to post more tips on my experiences with this excellent book, so far I'm really enjoying.
 
 .. author:: default
-.. categories:: fedora python
-.. tags:: fedora python flask
+.. categories:: fedora
+.. tags:: python 
 .. comments::
